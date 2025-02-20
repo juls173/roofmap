@@ -1,2 +1,5 @@
-/roofmapvenv
+roofmapvenv/
 buildings.geojson
+data/
+venv/
+imagery/
